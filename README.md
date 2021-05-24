@@ -1,0 +1,2 @@
+# complex-proj-Multipli-table
+Ce projet consiste à créer un tableau aléatoire de 100 nombres situés entre 0 et 10, inverser le tableau et multiplier par 2 chaque elements et afficher une table de multplication pour chaque element du tableau (retouner une chaine de caractere qui sera afficher dans un autre bloc affichage). Le travail est réparti comme suite : Oumar Kane - création, inversion et multiplication par deux des élements du tableau; Ibrahima Camara - Programme principal et table de multiplication
